@@ -1,20 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+📌 CampusResolve – Campus Issue Reporter App 🏫🛠️
 
-# Run and deploy your AI Studio app
+CampusResolve is a web-based application designed to help students report campus-related issues such as broken lights 💡, water problems 🚰, cleanliness issues 🧹, and other maintenance concerns. The app provides a simple and efficient way for students to submit problems along with photos 📸 and location details 📍, ensuring faster communication with campus authorities.
 
-This contains everything you need to run your app locally.
+The application includes an admin dashboard 🧑‍💼 where administrators can view all reported issues, track their progress, and update their status from Submitted 📨 to In Progress 🔧 and finally Solved ✅. This status-based workflow improves transparency and helps ensure timely issue resolution across the campus.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1P_hxZOZf4uLZOlwJy-QpBzcERvtpYbAd
+CampusResolve focuses on a clean, user-friendly interface 🎨 and is optimized for both desktop 💻 and mobile 📱 devices, making it easy to use for everyone on campus.
 
-## Run Locally
+✨ Key Features
 
-**Prerequisites:**  Node.js
+📝 Report campus issues with description, photo, and location
 
+🧑‍💼 Admin dashboard to manage and track complaints
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🔄 Issue status tracking (Submitted → In Progress → Solved)
+
+📱 Responsive and user-friendly UI
+
+🏫 Built for efficient campus maintenance management
