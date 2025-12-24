@@ -1,0 +1,9 @@
+
+{
+  "name": "CampusResolve",
+  "description": "The official campus maintenance and issue resolution platform. Empowering students to report problems and facilities teams to solve them efficiently.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
